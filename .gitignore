@@ -1,0 +1,22 @@
+[Aa]ssets/Images.meta
+[Aa]ssets/LICENSES.txt
+[Aa]ssets/LICENSES.txt.meta
+[Aa]ssets/Images/*
+[Aa]ssets/UnityMaker/Sounds/*
+[Aa]ssets/UnityMaker/Fonts/*
+
+[Tt]emp/*
+
+Assets/Audio
+Assets/Fonts
+Assets/Graphics
+Assets/Plugins
+Build/MonoBleedingEdge
+Build/My project (1)_Data
+Library
+Logs
+obj
+Build
+*csproj
+Build.7z
+.vs
